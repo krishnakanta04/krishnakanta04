@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishnakanta (just call me KK), I am a Web Developer.
 - 👀 I’m interested in Web Development, Cybersecurity, Cloud Computing.
-- 🌱 I’m currently learning Javascript and React JS.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me ? Just drop a mail - krishnakantanaik04@gmail.com
 
 <!---
